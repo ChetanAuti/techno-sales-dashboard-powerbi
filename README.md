@@ -110,7 +110,7 @@ Total Records: 5,000+
 
 📁Folder structure:
 
-📁 Techno-Sales-Dashboard
+📁 Techno-Sales-Dashboard.     
  ├── Sales_Data.csv.       
  ├── Techno_Sales_Dashboard.pbix. 
  ├── README.md.        
@@ -128,6 +128,7 @@ Skilled in SQL | Excel | Power BI | Data Analysis
 
 
 ⭐ If you found this useful, feel free to star this repository!
+
 
 
 
