@@ -18,27 +18,43 @@ The goal of this project is to derive business insights such as:
 *Supervisor Performance Tracking
 
 
+
 🗂 Dataset Information
 
 File Used: Sales_Data.csv
 
 Total Records: 5,000+
 
-Columns Included:
-Order Number
-State Code
-Customer Name
-Order Date
-Status
-Product
-Category
-Brand
-Cost
-Sales
-Quantity
-Total Cost
-Total Sales
-Assigned Supervisor
+•Columns Included:
+
+•Order Number
+
+•State Code
+
+•Customer Name
+
+•Order Date
+
+•Status
+
+•Product
+
+•Category
+
+•Brand
+
+•Cost
+
+•Sales
+
+•Quantity
+
+•Total Cost
+
+•Total Sales
+
+•Assigned Supervisor
+
 
 
 📈 Dashboard Features
@@ -58,6 +74,7 @@ Assigned Supervisor
 ✔ Interactive Filtering & Cross Highlighting
 
 
+
 🛠 Tools & Technologies
 
 ✔Power BI Desktop
@@ -69,6 +86,7 @@ Assigned Supervisor
 ✔Data Modeling
 
 ✔Interactive Visualizations
+
 
 
 🎯 Business Insights Derived
@@ -100,6 +118,7 @@ Assigned Supervisor
 #Use slicers to explore insights
 
 
+
 📁Folder structure:
 
 📁 Techno-Sales-Dashboard
@@ -113,6 +132,7 @@ Assigned Supervisor
  └── dashboard_screenshot.png
 
 
+
 👨‍💻 Author
 
 Chetan Auti
@@ -123,6 +143,7 @@ Skilled in SQL | Excel | Power BI | Data Analysis
 
 
 ⭐ If you found this useful, feel free to star this repository!
+
 
 
 
