@@ -66,6 +66,11 @@ Assigned Supervisor
 5.Evaluated category demand trends
 
 
+📷 Dashboard Preview
+<img width="1339" height="754" alt="Dashboard_image" src="https://github.com/user-attachments/assets/f10ad7a3-f023-4134-a4ce-e856c5e3b799" />
+
+
+
 🚀 How to Use
 
 #Download the .pbix file
@@ -91,5 +96,6 @@ Skilled in SQL | Excel | Power BI | Data Analysis
 
 
 ⭐ If you found this useful, feel free to star this repository!
+
 
 
