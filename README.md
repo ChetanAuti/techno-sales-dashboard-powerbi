@@ -7,15 +7,11 @@ The dashboard analyzes sales performance from 2020–2022 using a CSV dataset co
 
 The goal of this project is to derive business insights such as:
 
-*Total Sales & Profit
-
-*Top Performing Products
-
-*Brand-wise Sales Distribution
-
-*State-wise Sales Analysis
-
-*Supervisor Performance Tracking
+*Total Sales & Profit.      
+*Top Performing Products.    
+*Brand-wise Sales Distribution.    
+*State-wise Sales Analysis.    
+*Supervisor Performance Tracking.  
 
 
 
@@ -143,6 +139,7 @@ Skilled in SQL | Excel | Power BI | Data Analysis
 
 
 ⭐ If you found this useful, feel free to star this repository!
+
 
 
 
