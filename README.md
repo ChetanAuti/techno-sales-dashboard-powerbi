@@ -73,14 +73,10 @@ Total Records: 5,000+
 
 🛠 Tools & Technologies
 
-✔Power BI Desktop
-
-✔DAX
-
-✔CSV Dataset
-
-✔Data Modeling
-
+✔Power BI Desktop.              
+✔DAX.                            
+✔CSV Dataset.                    
+✔Data Modeling.               
 ✔Interactive Visualizations
 
 
@@ -105,27 +101,20 @@ Total Records: 5,000+
 
 🚀 How to Use
 
-#Download the .pbix file
-
-#Open in Power BI Desktop
-
-#Refresh data if needed
-
-#Use slicers to explore insights
+#Download the .pbix file.       
+#Open in Power BI Desktop.       
+#Refresh data if needed.       
+#Use slicers to explore insights.  
 
 
 
 📁Folder structure:
 
 📁 Techno-Sales-Dashboard
-
- ├── Sales_Data.csv
- 
- ├── Techno_Sales_Dashboard.pbix
- 
- ├── README.md
- 
- └── dashboard_screenshot.png
+ ├── Sales_Data.csv.       
+ ├── Techno_Sales_Dashboard.pbix. 
+ ├── README.md.        
+ └── dashboard_screenshot.png.    
 
 
 
@@ -139,6 +128,7 @@ Skilled in SQL | Excel | Power BI | Data Analysis
 
 
 ⭐ If you found this useful, feel free to star this repository!
+
 
 
 
