@@ -1,3 +1,7 @@
+📷 Dashboard Preview
+<img width="1339" height="754" alt="Dashboard_image" src="https://github.com/user-attachments/assets/f10ad7a3-f023-4134-a4ce-e856c5e3b799" />
+
+
 📊 Techno Sales Dashboard (Power BI Project)
 
 📌 Project Overview
@@ -94,8 +98,6 @@ Total Records: 5,000+
 5.Evaluated category demand trends
 
 
-📷 Dashboard Preview
-<img width="1339" height="754" alt="Dashboard_image" src="https://github.com/user-attachments/assets/f10ad7a3-f023-4134-a4ce-e856c5e3b799" />
 
 
 
